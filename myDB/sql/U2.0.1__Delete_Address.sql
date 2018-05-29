@@ -1,0 +1,1 @@
+delete from ADDRESS where ID in (1,2,3);
